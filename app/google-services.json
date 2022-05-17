@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871374343546",
+    "project_id": "moviles-a831d",
+    "storage_bucket": "moviles-a831d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871374343546:android:7f171f0ba10f863c651ac3",
+        "android_client_info": {
+          "package_name": "com.example.basicfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871374343546-b8419m2pacohtv1uhrh9c6m32723a4q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3FYX_xsl3kXf7S0VTrtTVz4O_fVu-Hk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871374343546-b8419m2pacohtv1uhrh9c6m32723a4q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
